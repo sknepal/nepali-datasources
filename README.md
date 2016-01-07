@@ -122,7 +122,7 @@ Another open directory. Consists of lots of documents, incl. [Registered Tourism
 Nepal Education in figures 2015.
 
 ### [Department of Education](http://doe.gov.np/downloads/schools_and_Student.xlsx)
-Total sNepal Education in figures 2015.
+Total schools and students by grade and year (2069 / 70).
 
 ### [HDX](https://data.hdx.rwlabs.org/dataset/nepal-census-2011-district-profiles-education)
 Nepal Census 2011 District Profiles (Education). There are some nice [visualizations of the data](http://www.madhesiyouth.com/data/education/).
