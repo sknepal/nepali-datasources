@@ -127,6 +127,12 @@ Total schools and students by grade and year (2069 / 70).
 ### [HDX](https://data.hdx.rwlabs.org/dataset/nepal-census-2011-district-profiles-education)
 Nepal Census 2011 District Profiles (Education). There are some nice [visualizations of the data](http://www.madhesiyouth.com/data/education/).
 
+###[Wikipedia](https://en.wikipedia.org/wiki/List_of_schools_in_Nepal)
+Lis of schools in Nepal sorted by Districts.
+
+###[School Statistics Information System](http://202.70.77.75:8080/flash/schoolreport/reportpre.php)
+Data collected by government on schools during inspections.
+
 ### [Open Cities](http://www.opencitiesproject.org/casestudy/schools/)
 Educational Facilities within Kathmandu valley (Crowdsourced).
   
