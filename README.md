@@ -157,7 +157,13 @@ Health facilities within the Kathmandu Valley (Crowdsourced).
 ### [Department of Transport Management](http://www.dotm.gov.np/en/facts-and-statistics/)
 Vehicle registration information and others.
 
+## Metadata
 
+### [Thar](https://github.com/studenton/Thar)
+Dataset containing Nepalese surnames.
+
+### [gender-data](https://github.com/studenton/gender-data)
+Dataset containing the first names and their gender.
 
 
 
@@ -171,4 +177,4 @@ Vehicle registration information and others.
 * [UN Data](http://data.un.org/Search.aspx?q=nepal)
 
 
-**Last updated: Jan 07, 2016**
+**Last updated: Jul 03, 2016**
