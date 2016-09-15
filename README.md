@@ -157,6 +157,11 @@ Health facilities within the Kathmandu Valley (Crowdsourced).
 ### [Department of Transport Management](http://www.dotm.gov.np/en/facts-and-statistics/)
 Vehicle registration information and others.
 
+## Industry
+
+### [Office of Company Registrar](http://www.ocr.gov.np/index.php/en/data)
+Company registration information.
+
 ## Metadata
 
 ### [Thar](https://github.com/studenton/Thar)
